@@ -1,0 +1,6 @@
+class Plane
+{
+  public Plane()
+  {
+  }
+}
